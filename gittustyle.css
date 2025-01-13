@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+    color: blueviolet;
+    padding: 10px;
+    margin: 50px;
+    border: 10px solid rgb(226, 34, 146);
+    box-shadow: 10px 10px 10px rgb(226, 34, 146);
+    text-align: center;
+}
+*{
+    background-color: aqua;
+}
